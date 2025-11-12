@@ -12,4 +12,4 @@ Material 3
 
 Android Studio
 
-<img width="191" height="108" alt="image" src="https://github.com/user-attachments/assets/a0bbd194-41db-456e-940c-0db7a582b655" />
+ <img width="388" height="774" alt="image" src="https://github.com/user-attachments/assets/dd18f56f-d345-4a5d-9565-05d095f2ac33" />
